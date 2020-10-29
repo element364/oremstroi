@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{categories:[{name:"Строительство",slug:"stroitelstvo"},{name:"Полы",slug:"poly"},{name:"Внешняя отделка",slug:"vneshnyaya-otdelka"},{name:"Окна",slug:"okna"},{name:"Потолки",slug:"potolki"},{name:"Отопление",slug:"otoplenie"}]}],fetch:[],mutations:void 0});
